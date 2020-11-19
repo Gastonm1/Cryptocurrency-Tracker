@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cryptocurrency-Tracker/static/css/main.3728b7b4.chunk.css",
+    "main.js": "/Cryptocurrency-Tracker/static/js/main.6b313d97.chunk.js",
+    "main.js.map": "/Cryptocurrency-Tracker/static/js/main.6b313d97.chunk.js.map",
+    "runtime-main.js": "/Cryptocurrency-Tracker/static/js/runtime-main.2f90922e.js",
+    "runtime-main.js.map": "/Cryptocurrency-Tracker/static/js/runtime-main.2f90922e.js.map",
+    "static/js/2.a3416827.chunk.js": "/Cryptocurrency-Tracker/static/js/2.a3416827.chunk.js",
+    "static/js/2.a3416827.chunk.js.map": "/Cryptocurrency-Tracker/static/js/2.a3416827.chunk.js.map",
+    "index.html": "/Cryptocurrency-Tracker/index.html",
+    "precache-manifest.8acce2434962fd327cbacfdb68bb0d37.js": "/Cryptocurrency-Tracker/precache-manifest.8acce2434962fd327cbacfdb68bb0d37.js",
+    "service-worker.js": "/Cryptocurrency-Tracker/service-worker.js",
+    "static/css/main.3728b7b4.chunk.css.map": "/Cryptocurrency-Tracker/static/css/main.3728b7b4.chunk.css.map",
+    "static/js/2.a3416827.chunk.js.LICENSE.txt": "/Cryptocurrency-Tracker/static/js/2.a3416827.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f90922e.js",
+    "static/js/2.a3416827.chunk.js",
+    "static/css/main.3728b7b4.chunk.css",
+    "static/js/main.6b313d97.chunk.js"
+  ]
+}
